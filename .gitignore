@@ -1,3 +1,5 @@
 .python*
 poetry.lock
 .env
+__pycache__
+chroma_db

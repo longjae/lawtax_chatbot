@@ -12,6 +12,12 @@ pymongo = "^4.11.1"
 pandas = "^2.2.3"
 tqdm = "^4.67.1"
 python-dotenv = "^1.0.1"
+langchain = "^0.3.23"
+langgraph = "^0.3.25"
+langchain-openai = "^0.3.12"
+langchain-community = "^0.3.21"
+langchain-mongodb = "^0.6.0"
+chromadb = "^1.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
